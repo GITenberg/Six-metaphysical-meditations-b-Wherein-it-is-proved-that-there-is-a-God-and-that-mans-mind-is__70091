@@ -1,0 +1,68 @@
+_repo: Six-metaphysical-meditations-b-Wherein-it-is-proved-that-there-is-a-God-and-that-mans-mind-is__70091
+_version: 0.0.1
+alternative_title:
+- Meditationes de prima philosophia. English
+- "6 metaphysical meditations\r\n Wherein it is proved that there is a God and that\
+  \ mans mind is really distinct from his body"
+contributor:
+  contributor:
+    agent_name: Hobbes, Thomas
+    aliases:
+    - Hobbs, Thomas
+    - Hobs, Thomas
+    birthdate: 1588
+    deathdate: 1679
+    gutenberg_agent_id: '1133'
+    url: http://www.gutenberg.org/2009/agents/1133
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Hobbes
+  translator:
+    agent_name: Molyneux, William
+    aliases:
+    - Molineux, William
+    - Mollyneux, William
+    - Mollineux, W. (William)
+    birthdate: 1656
+    deathdate: 1698
+    gutenberg_agent_id: '55593'
+    url: http://www.gutenberg.org/2009/agents/55593
+    wikipedia: https://en.wikipedia.org/wiki/William_Molyneux
+creator:
+  author:
+    agent_name: Descartes, René
+    alias: Descartes, Rene
+    birthdate: 1596
+    deathdate: 1650
+    gutenberg_agent_id: '44'
+    url: http://www.gutenberg.org/2009/agents/44
+    wikipedia:
+    - https://en.wikipedia.org/wiki/René_Descartes
+    - https://fr.wikipedia.org/wiki/Ren%C3%A9_Descartes
+description: '"Hereunto are added the objections made against these meditations by
+  Thomas Hobbes of Malmesbury, with the authors answers."'
+gutenberg_issued: '2023-02-20'
+identifiers:
+  gutenberg: '70091'
+language: en
+pgterms:marc905: 20050327113645descartes
+pgterms:marc906: '1680'
+pgterms:marc907: gb
+production_note: Jonathan Ingram, Thanks to Special Collections, Princeton University
+  Library and Special Collections and Archives, Glucksman Library, University of Limerick
+  for additional images, and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited Kingdom :$bPrinted by B. G. for Benj. Tooke at the Ship
+  in St. Pauls Church-yard, $c1680.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knowledge, Theory of'
+- !lcsh 'Metaphysics'
+- !lcsh 'First philosophy'
+- !lcsh 'God -- Proof, Ontological'
+- !lcsh 'Methodology'
+- !lcsh 'Descartes, René, 1596-1650'
+- !lcc 'B'
+- GITenberg
+title: "Six metaphysical meditations\r\n$b Wherein it is proved that there is a God\
+  \ and that mans mind is really distinct from his body"
+url: http://www.gutenberg.org/ebooks/70091
