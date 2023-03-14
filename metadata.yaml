@@ -26,6 +26,9 @@ contributor:
     gutenberg_agent_id: '55593'
     url: http://www.gutenberg.org/2009/agents/55593
     wikipedia: https://en.wikipedia.org/wiki/William_Molyneux
+covers:
+- cover_type: archival
+  image_path: 70091-h/images/cover.jpg
 creator:
   author:
     agent_name: Descartes, René
@@ -39,6 +42,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Ren%C3%A9_Descartes
 description: '"Hereunto are added the objections made against these meditations by
   Thomas Hobbes of Malmesbury, with the authors answers."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70091#Six-metaphysical-meditations-b-Wherein-it-is-proved-that-there-is-a-God-and-that-mans-mind-is_
 gutenberg_issued: '2023-02-20'
 identifiers:
   gutenberg: '70091'
